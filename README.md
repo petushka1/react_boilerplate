@@ -4,7 +4,7 @@
 
 ### This application is using MongoDB. Be sure you have it. You can run it with Docker for development.
 ```
-docker run --name name -p 27017:27017 -d mongo
+docker run --name name -p 27017:27017 -d mongo  
 ```
 
 ### Also you will need SendGrid account for creating registration confirming mails.
